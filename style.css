@@ -1,6 +1,7 @@
 html{
     height: 100%;
     width: 100%;
+    background-color: rgb(255, 178, 178);
 }
 
 .bdy{
@@ -16,6 +17,15 @@ font-style: normal;
     font-family: "ziclets", sans-serif;
     font-weight: 50;
     font-style: normal;
+    color:black;
+    text-align: center;
+}
+.text{
+    font-family: 'Courier New', Courier, monospace;
+}
+.rounded{
+    border:solid white 3px;
+    border-radius: 30px;
 }
 /*{
     font-family: "bd-geminis", sans-serif;
@@ -34,11 +44,6 @@ font-size: medium;
     max-width: 85%;
 }
 
-.beachlk{
-    font-size: larger;
-    color: rgb(75, 139, 224);
-    text-decoration: none;
-}
 .ft{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(255, 54, 54);
 }
