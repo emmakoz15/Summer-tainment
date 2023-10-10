@@ -1,10 +1,30 @@
-.html{
+html{
     height: 100%;
     width: 100%;
 }
 
+.bdy{
+    background-color: rgb(255, 178, 178);
+}
+.navbar-brand{
+font-family: "droog", sans-serif;
+font-weight: 900;
+font-style: normal;
+
+}
+.desc1{
+    font-family: "ziclets", sans-serif;
+    font-weight: 50;
+    font-style: normal;
+}
+/*{
+    font-family: "bd-geminis", sans-serif;
+font-weight: 100;
+font-style: normal;
+font-size: medium;
+}*/
 .btnlk{
-    border:solid red 2px;
+    border:solid red 3px;
     background-color: transparent;
     background-image:url("images/dontic\ copy.png");
     height:20rem;
@@ -18,4 +38,7 @@
     font-size: larger;
     color: rgb(75, 139, 224);
     text-decoration: none;
+}
+.ft{
+    background-color: rgb(255, 255, 255);
 }
